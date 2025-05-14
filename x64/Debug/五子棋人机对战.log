@@ -1,0 +1,17 @@
+﻿  Chess.cpp
+C:\Users\Lenovo\source\repos\五子棋人机对战\五子棋人机对战\Chess.cpp(65,58): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Lenovo\source\repos\五子棋人机对战\五子棋人机对战\Chess.cpp(65,47): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Lenovo\source\repos\五子棋人机对战\五子棋人机对战\Chess.cpp(66,58): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Lenovo\source\repos\五子棋人机对战\五子棋人机对战\Chess.cpp(66,47): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Lenovo\source\repos\五子棋人机对战\五子棋人机对战\Chess.cpp(81,13): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Lenovo\source\repos\五子棋人机对战\五子棋人机对战\Chess.cpp(82,13): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Lenovo\source\repos\五子棋人机对战\五子棋人机对战\Chess.cpp(84,21): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Lenovo\source\repos\五子棋人机对战\五子棋人机对战\Chess.cpp(85,21): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Lenovo\source\repos\五子棋人机对战\五子棋人机对战\Chess.cpp(86,16): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Lenovo\source\repos\五子棋人机对战\五子棋人机对战\Chess.cpp(92,19): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Lenovo\source\repos\五子棋人机对战\五子棋人机对战\Chess.cpp(103,19): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Lenovo\source\repos\五子棋人机对战\五子棋人机对战\Chess.cpp(115,19): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Lenovo\source\repos\五子棋人机对战\五子棋人机对战\Chess.cpp(128,19): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Lenovo\source\repos\五子棋人机对战\五子棋人机对战\Chess.cpp(148,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Lenovo\source\repos\五子棋人机对战\五子棋人机对战\Chess.cpp(149,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  五子棋人机对战.vcxproj -> C:\Users\Lenovo\source\repos\五子棋人机对战\x64\Debug\五子棋人机对战.exe
